@@ -1,6 +1,9 @@
 .idea/
 .vscode/
 
+dst/
+src/
+
 
 *.m3u8
 *.ts
